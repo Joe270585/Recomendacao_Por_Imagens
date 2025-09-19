@@ -27,7 +27,9 @@ Retornar recomendações
 Para cada imagem de entrada, retornamos as top N imagens mais próximas.
 
 ⚡ Estrutura do Projeto
+
 image_recommender/
+
 │── images/             # pasta com imagens do dataset
 
 │── embeddings.npy      # embeddings pré-computados
